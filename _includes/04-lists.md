@@ -13,3 +13,14 @@ People
 | :confused: `:confused:` | :hushed: `:hushed:` | :expressionless: `:expressionless:` |
 | :unamused: `:unamused:` | :sweat_smile: `:sweat_smile:` | :sweat: `:sweat:` |
 | :disappointed_relieved: `:disappointed_relieved:` | :weary: `:weary:` | :pensive: `:pensive:` |
+
+1. Item 1
+2. Item 2
+3. Item 3
+   1. Item 3a
+   2. Item 3b
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
